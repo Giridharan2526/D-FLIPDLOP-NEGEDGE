@@ -51,7 +51,8 @@ RegisterNumber: 212224050009
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/3243e846-c454-4b56-8c3e-4f6dc6c5b26e)
+![image](https://github.com/user-attachments/assets/5c0e7d82-bca8-4f27-b6d2-df5211ccd861)
+
 
 
 
